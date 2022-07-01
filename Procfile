@@ -1,1 +1,1 @@
-web: gunicorn kerala.wsgi-log-file-
+web: gunicorn kerala.wsgi --log-file -
