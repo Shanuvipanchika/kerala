@@ -13,3 +13,6 @@ def first(request):
 
 def new(request):
     return render(request,"abcd/new.html")
+    
+def index(request):
+    return render(request,"abcd/hello.html")
