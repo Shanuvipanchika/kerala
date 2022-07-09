@@ -16,3 +16,12 @@ def new(request):
     
 def index(request):
     return render(request,"abcd/hello.html")
+
+def prac(request):
+    return render(request,"abcd/prac4.html")
+
+def load(request):
+    return render(request,"abcd/image.html")
+
+def ext(request):
+    return render(request,"abcd/extension.html")

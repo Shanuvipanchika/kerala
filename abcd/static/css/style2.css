@@ -1,0 +1,12 @@
+#p1{
+    color: aqua;
+}
+
+h1{
+    color: aquamarine;
+}
+
+img[alt='pic1']{
+    height: 100px;
+    width: 50px;
+}
